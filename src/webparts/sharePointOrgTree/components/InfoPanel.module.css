@@ -1,0 +1,36 @@
+.ms-Panel-scrollableContent {
+    padding: 30px 80px;
+}
+
+.ms-Panel-content .ms-Persona-primaryText {
+    font-size: 48px;
+    font-weight: 100;
+}
+.ms-Panel-content .ms-Persona-secondaryText {
+    font-size: 24px;
+    font-weight: 100;
+}
+.ms-Panel-content .ms-Persona-tertiaryText {
+    font-size: 15px;
+}
+.ms-Panel-content .ms-Persona-optionalText {
+    margin-top: 12px;
+}
+
+.ms-Panel-contentInner button.is-disabled, 
+.ms-Panel-contentInner button.is-disabled .ms-Button-flexContainer {
+    color: #777;
+}
+.ms-Panel-contentInner .ms-Button-label {
+    color: #0073ff;
+}
+.ms-Panel-contentInner button:hover .ms-Button-label {
+    color: black;
+}
+
+
+.indentToButton {
+    color: #777;
+    margin-left: 30px;
+    margin-top: -8px;
+}

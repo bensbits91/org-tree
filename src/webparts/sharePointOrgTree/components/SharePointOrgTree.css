@@ -1,0 +1,14 @@
+i.ms-Button-icon {
+    color: darkorange;
+}
+.ms-Persona button.ms-Button.ms-Button--commandBar {
+    background-color: inherit;
+}
+.ms-Persona .ms-OverflowSet {
+    display: inline-block;
+    line-height: 12px;
+    margin-left: 48px;
+}
+i.ms-ContextualMenu-icon {
+    color: darkorange;
+}
